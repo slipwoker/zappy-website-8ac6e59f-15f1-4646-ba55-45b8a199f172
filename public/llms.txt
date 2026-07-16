@@ -1,0 +1,79 @@
+# LetterNest — Generative Engine Optimization Map
+
+> A blog website inspired by a reference image provided by the user. The specific niche, tone, and content focus of the blog are not yet defined.
+
+---
+
+## Pages
+
+### בית
+https://letternest-8ac6e59f.zappy5.app
+גלה איך לפרסם פוסט בלוג בוורדפרס בקלות ובמהירות. מדריך שלב אחר שלב שיהפוך אותך לבלוגר מקצועי. התחל ליצור תוכן מנצח עוד היום!
+
+### כתוב
+https://letternest-8ac6e59f.zappy5.app/write
+מוכן לשתף את הרעיונות שלך? למד איך לפרסם פוסט בלוג בוורדפרס עם כלים וטריקים שיהפכו את הכתיבה שלך לבלתי נשכחת. התחל לכתוב עכשיו!
+
+### אודות
+https://letternest-8ac6e59f.zappy5.app/about
+סקרנים לדעת מי עומד מאחורי התוכן? הכירו את החזון והתשוקה שמניעים את LetterNest לעזור לכם לפרסם בלוג בוורדפרס כמו מקצוענים. בואו לגלות!
+
+### צור קשר
+https://letternest-8ac6e59f.zappy5.app/contact
+יש שאלה על איך לפרסם פוסט בלוג בוורדפרס? צרו קשר ונשמח להדריך אתכם בדרך להצלחה דיגיטלית עם ייעוץ אישי ומהיר. כתבו לנו עוד היום!
+
+### תודה רבה | הפנייה התקבלה בהצלחה
+https://letternest-8ac6e59f.zappy5.app/thank-you
+תודה על פנייתך. קיבלנו את ההודעה שלך ונחזור אליך בהקדם. בינתיים, גלה איך להתחיל בלוג מצליח וקרא את המדריכים שלנו על how to post a blog on wordpress.
+
+## Legal & Policy
+
+### Privacy Policy
+https://letternest-8ac6e59f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://letternest-8ac6e59f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://letternest-8ac6e59f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://letternest-8ac6e59f.zappy5.app
+- Endpoint: https://letternest-8ac6e59f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `email` (email, required)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LetterNest
+A blog website inspired by a reference image provided by the user. The specific niche, tone, and content focus of the blog are not yet defined.
+
+## Target Audience
+- יוצרי תוכן צעירים
+- בלוגרים מומחים בנישה
+- חובבי שיווק דיגיטלי
+
+## Industry
+Blog / Content Publishing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://letternest-8ac6e59f.zappy5.app/sitemap.xml
+- Robots: https://letternest-8ac6e59f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://letternest-8ac6e59f.zappy5.app/llms-full.txt
