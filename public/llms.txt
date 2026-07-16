@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://letternest.zappy5.app
 גלה איך לפרסם פוסט בלוג בוורדפרס בקלות ובמהירות. מדריך שלב אחר שלב שיהפוך אותך לבלוגר מקצועי. התחל ליצור תוכן מנצח עוד היום!
 
 ### כתוב
-https://example.com/write
+https://letternest.zappy5.app/write
 מוכן לשתף את הרעיונות שלך? למד איך לפרסם פוסט בלוג בוורדפרס עם כלים וטריקים שיהפכו את הכתיבה שלך לבלתי נשכחת. התחל לכתוב עכשיו!
 
 ### אודות
-https://example.com/about
+https://letternest.zappy5.app/about
 סקרנים לדעת מי עומד מאחורי התוכן? הכירו את החזון והתשוקה שמניעים את LetterNest לעזור לכם לפרסם בלוג בוורדפרס כמו מקצוענים. בואו לגלות!
 
 ### צור קשר
-https://example.com/contact
+https://letternest.zappy5.app/contact
 יש שאלה על איך לפרסם פוסט בלוג בוורדפרס? צרו קשר ונשמח להדריך אתכם בדרך להצלחה דיגיטלית עם ייעוץ אישי ומהיר. כתבו לנו עוד היום!
 
 ### תודה רבה | הפנייה התקבלה בהצלחה
-https://example.com/thank-you
+https://letternest.zappy5.app/thank-you
 תודה על פנייתך. קיבלנו את ההודעה שלך ונחזור אליך בהקדם. בינתיים, גלה איך להתחיל בלוג מצליח וקרא את המדריכים שלנו על how to post a blog on wordpress.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://letternest.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://letternest.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://letternest.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://letternest.zappy5.app
+- Endpoint: https://letternest.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -74,6 +74,6 @@ Blog / Content Publishing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://letternest.zappy5.app/sitemap.xml
+- Robots: https://letternest.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://letternest.zappy5.app/llms-full.txt
